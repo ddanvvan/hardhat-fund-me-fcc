@@ -1,0 +1,13 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+deployments
+contracts/exampleContracts/FunWithStorage.sol
+
+#Hardhat files
+cache
+artifacts
+
